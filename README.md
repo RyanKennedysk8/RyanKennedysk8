@@ -3,8 +3,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou Ryan, um estudante de 23 anos de Ciência da Computação na UNIP/BH, com previsão de formatura para dezembro de 2025. Minha jornada profissional começou como estagiário de TI, onde desenvolvi e ministrei cursos abrangendo programação, pacote Office, hardware e software. Posteriormente, assumi o papel de instrutor de informática, enquanto simultaneamente me envolvia no desenvolvimento de sites (utilizando HTML, CSS, JavaScript e WordPress) e sistemas (usando Java e MySQL). Essa experiência diversificada me proporcionou habilidades sólidas em diversas áreas da tecnologia da informação, preparando-me para desafios futuros e oportunidades de crescimento profissional.
+Ryan | Estudante de Ciência da Computação - UNIP/BH (Formatura em Dezembro de 2025)
 
+Sou estudante de Ciência da Computação com experiência prática em desenvolvimento de software nas áreas de front-end e back-end. Tenho conhecimentos em React Native, Typescript, Tailwind, Java e PostgreSQL, com experiência em projetos de pequeno e médio porte. Busco uma oportunidade para aplicar e aprimorar minhas habilidades em desenvolvimento, focando em contribuir para soluções tecnológicas enquanto continuo a crescer profissionalmente como desenvolvedor.
 
 ---
 
